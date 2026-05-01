@@ -75,7 +75,7 @@
   background-color: #0F6E56;
   display: flex;
   flex-direction: row; 
-  justify-content: space-between;
+  justify-content: space-around;
   padding: 10px 24px;
   gap: 20px;
 
@@ -229,7 +229,7 @@
   font-size: 13px;
   color: #5F5E5A;
   text-align: center;
-  flex: 0;  
+  flex: 1;  
 }
 
 
